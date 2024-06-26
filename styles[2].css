@@ -1,0 +1,43 @@
+body{
+   margin: 0;
+   
+}
+
+#title{
+    background-image: url("/img/faded-office.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 190px 400px;
+}
+
+#titlename{
+    position: absolute;
+    top: 8px;
+    left: 40px;
+    font-size: 40px;
+}
+
+#underline{
+    text-decoration-line: underline ;
+    text-decoration-color: #0ea5e9;
+}
+
+#paragraph{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    font-size: 25px;
+}
+
+#btn{
+    position: absolute;
+    top: 240px;
+    left: 40px; 
+    padding: 15px 30px;
+    color: white;
+    font-size: 25px;
+    background-color: #0ea5e9;
+    border: 0px;
+    
+}
